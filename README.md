@@ -1,1 +1,1 @@
-DN42 GeoIP and ASN databases are available as MMDB and XDB files in [Releases](https://github.com/bird-chinese-community/DN42-IPDB-Releases/releases).
+DN42 Country, City, ASN, and Connection-Type databases with observed network metadata are available in [Releases](https://github.com/bird-chinese-community/DN42-IPDB-Releases/releases) for use with the [Go, TypeScript, Python, and Rust SDKs](https://github.com/bird-chinese-community/DN42-IPDB-SDK).
